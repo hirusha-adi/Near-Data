@@ -1,0 +1,3 @@
+### --pause
+
+Pause the music
